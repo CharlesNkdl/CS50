@@ -1,0 +1,17 @@
+Times:
+
+10 simulations: 0m0.047s (record time using 0m0.000s format)
+100 simulations: 0m0.028s (record time using 0m0.000s format)
+1000 simulations: 0m0.048s (record time using 0m0.000s format)
+10000 simulations: 0m0.136s (record time using 0m0.000s format)
+100000 simulations: 0m1.156s (record time using 0m0.000s format)
+1000000 simulations: 0m10.744s (record time using 0m0.000s format)
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+When doing more simulations, Brazil was not the first contender consistently
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+It seems like the predictions stabilized after 10000 simulations
