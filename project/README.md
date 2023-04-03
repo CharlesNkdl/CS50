@@ -1,7 +1,7 @@
 # TEN QUEENS PUZZLE
 ### Video demo : https://youtu.be/LLy96HwYoZM
 ### Description :
-Hello everybody, my name is Charles Nikdel from Lille,France.
+Hello everybody, my name is Charles Nkdl from Lille,France.
 
 In this final project, i used C with command line argument and an algorithmic problem.
 I studied and used a Backtracking algorithm to solve and give all the solutions of the "Ten Queens Puzzle".
