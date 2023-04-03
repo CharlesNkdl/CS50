@@ -31,10 +31,10 @@ Then i call the backtracking algorithm "queenplace" with the array, initialized 
 
 So this is the backtraking algorithm, the main part of this program.
 The goal is to place 1 queen per row.
-Why ? :
+            Why ? :
             - Since queen can move vertically and horizontally, we know that no 2 queen can be on the same row ! I could have gone by also iterating column per column but in my mind, row was easier at first. Thinking back, it made no difference.
     
-How ? :
+            How ? :
             - The row value is send as a parameter so we don't need to modify it.
             - We initialize a col integer to navigate through each row of the array with a while loop.
             - To each column of the row, we call the backbone of the backtraking algorithm, the function "isgood_line" which return 1 if this is possible to put a queen here or 0 if not.
