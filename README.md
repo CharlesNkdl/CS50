@@ -50,10 +50,10 @@ Topics : Python: Functions, Arguments, Return Values; Variables; Boolean Express
 
 Exercice : 
  Lab 6: World Cup/
- Sentimental / Hello/
- Sentimental / Mario (Less) or Mario (More)/
- Sentimental / Cash or Credit/
- Sentimental / Readability/
+ Sentimental Hello/
+ Sentimental Mario (Less) or Mario (More)/
+ Sentimental Cash or Credit/
+ Sentimental Readability/
  DNA
 
 ## WEEK 7 : SQL
