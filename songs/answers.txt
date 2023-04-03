@@ -1,0 +1,2 @@
+1) We could characterize their radio aura as someone who likes music with a high energy and a high danceability.
+2) It is only with his 100 most listened songs, we could augment the sample size or take more parameters.
