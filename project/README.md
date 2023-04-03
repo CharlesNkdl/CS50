@@ -14,14 +14,14 @@ I wrote this in only one file so I will go to a breakthrough of each function i 
 
 ### int	ft_ten_queens_puzzle(void)
 
-        This is the base function, a kind of mini-main, to keep things clearer between the 2 sides of the program.
-        It first initiate a 2D int array of 10 values to represent a 10x10 board.
+This is the base function, a kind of mini-main, to keep things clearer between the 2 sides of the program.
+It first initiate a 2D int array of 10 values to represent a 10x10 board.
 
-        Then initiate a row integer to serve as value to navigate through the board.I only call a row and not a column parameter since i'll try to put a queen on each row before going to the next column.
+Then initiate a row integer to serve as value to navigate through the board.I only call a row and not a column parameter since i'll try to put a queen on each row before going to the next column.
 
-        I initiate a counter integer. It will be send as a pointer to the backtraking algorithm to serve as a counter of solution and send it back as a result of the function.
+I initiate a counter integer. It will be send as a pointer to the backtraking algorithm to serve as a counter of solution and send it back as a result of the function.
 
-        I then call the populate function.
+I then call the populate function.
 #### void	populate(int array[10][10])
 
         The goal of the populate function is quite simple, i fill the 2D array of 0 to be clean and get a better use of the backtraking algorithm.
