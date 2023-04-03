@@ -31,6 +31,7 @@ Then i call the backtracking algorithm "queenplace" with the array, initialized 
 
 So this is the backtraking algorithm, the main part of this program.
 The goal is to place 1 queen per row.
+
             Why ? :
             - Since queen can move vertically and horizontally, we know that no 2 queen can be on the same row ! I could have gone by also iterating column per column but in my mind, row was easier at first. Thinking back, it made no difference.
     
